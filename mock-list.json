@@ -1,0 +1,60 @@
+{
+    "id_list": "1",
+    "id_supermarket": "1",
+    "dt_created_at": "2022-10-16T09:30:00",
+    "ls_items": [
+        {
+            "id_product": "1",
+            "id_department": "1",
+            "ds_name": "Leite em pó",
+            "ds_description": "Instantâneo",
+            "ds_unit": "g",
+            "vl_volume": 200.00,
+            "vl_quantity": 2,
+            "price": 8.35,
+            "ds_brand": "La Serenissima"
+        },
+        {
+            "id_product": "2",
+            "id_department": "2",
+            "ds_name": "Condicionador",
+            "ds_description": "Bambu e biotina",
+            "ds_unit": "ml",
+            "vl_volume": 325.00,
+            "vl_quantity": 1,
+            "price": 10.55,
+            "ds_brand": "Seda"
+        },
+        {
+            "id_product": "3",
+            "id_department": "3",
+            "ds_name": "Tomate",
+            "ds_description": "Bambu e biotina",
+            "ds_unit": "kg",
+            "vl_volume": 1.00,
+            "vl_quantity": 1,
+            "price": 6.58,
+            "ds_brand": null
+        },
+        {
+            "id_product": "4",
+            "id_department": "4",
+            "ds_name": "Queijo mussarela",
+            "ds_unit": "g",
+            "vl_volume": 300,
+            "vl_quantity": 1,
+            "price": 10.48,
+            "ds_brand": null
+        },
+        {
+            "id_product": "4",
+            "id_department": "4",
+            "ds_name": "Presunto",
+            "ds_unit": "g",
+            "vl_volume": 180,
+            "vl_quantity": 1,
+            "price": 5.65,
+            "ds_brand": null
+        }
+    ]
+}
